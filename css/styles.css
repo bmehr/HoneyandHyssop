@@ -560,7 +560,7 @@ img, video, iframe, embed, object {
 	margin-top: 18px;
 }
 #aboutUs .left {
-	padding-right: 32px;
+	padding-right: 0px;
 	float: left;
 }
 #aboutUs .right {
