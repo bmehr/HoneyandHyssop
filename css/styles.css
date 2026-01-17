@@ -576,7 +576,8 @@ img, video, iframe, embed, object {
 /* Services
     -------------------------------------------------*/
 #services {
-	background: #737144;
+	background: #737144
+	;
 }
 .tbox {
 }
