@@ -560,6 +560,30 @@ img, video, iframe, embed, object {
 	letter-spacing: 1px;
 	color: #222;
 }
+#ourStory {
+	background: #222;
+	padding-top: 35px;
+	padding-bottom: 25px;
+	overflow: hidden;
+}
+#ourStory .feature {
+	margin-top: 30px;
+	margin-bottom: 54px;
+}
+#ourStory .right {
+	padding-left: 32px;
+	float: right;
+}
+#ourStory .left {
+	padding-right: 32px;
+	float: left;
+}
+#ourStory h3 {
+	font: 18px/34px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #222;
+}
 .fluid-video-wrapper {
 	margin-top: 18px;
 }
@@ -568,6 +592,13 @@ img, video, iframe, embed, object {
 	float: left;
 }
 #aboutUs .right {
+	float: right;
+}
+#ourStory .left {
+	padding-right: 0px;
+	float: left;
+}
+#ourStory .right {
 	float: right;
 }
 .row .six {
@@ -668,6 +699,12 @@ img, video, iframe, embed, object {
 }
 .services .fa {
 	color: #0F60A0;
+}
+#cleanRecovery {
+	background: #fff;
+}
+#cleanRecovery h2, #cleanRecovery p {
+	color: #222;
 }
 /* Team
     ---------------------------------------------------*/
