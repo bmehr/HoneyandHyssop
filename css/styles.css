@@ -444,7 +444,7 @@ a.arrow-link:hover {
 	color: #fff;
 }
 .colord {
-	background: #f5f2eb;
+	background: #fff;
 }
 .colord h3 {
 	color: #fff;
@@ -528,13 +528,13 @@ img, video, iframe, embed, object {
 /* Features
     -------------------------------------------------*/
 #features h2 {
-	color: #737144;
+	color: #222;
 }
 #features h4 {
-	color: #737144;
+	color: #222;
 }
 #features p {
-	color: #737144;
+	color: #222;
 }
 #aboutUs {
 	background: #222;
@@ -547,8 +547,9 @@ img, video, iframe, embed, object {
 	margin-bottom: 54px;
 }
 #aboutUs .right {
-	padding-left: 32px;
-	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center; 
 }
 #aboutUs .left {
 	padding-right: 32px;
