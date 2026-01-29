@@ -539,7 +539,7 @@ img, video, iframe, embed, object {
 #aboutUs {
 	background: #222;
 	padding-top: 35px;
-	padding-bottom: 25px;
+	padding-bottom: 5px;
 	overflow: hidden;
 }
 #aboutUs .feature {
