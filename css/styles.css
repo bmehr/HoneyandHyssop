@@ -36,7 +36,7 @@ body {
  background: #0F60A0;
 }
 p1 {
-	color: #ffffff;
+	color: #222;
 	margin: 0 0 1em !important;
 }
 p {
@@ -127,7 +127,7 @@ width: 99%;
 	background: rgba(255,255,255,0.35);
 }
 a {
-	color: #0F60A0;
+	color: #d8d23d;
 	text-decoration: none;
 	text-shadow: none;
 	-webkit-transition: all 0.2s linear;
@@ -239,7 +239,7 @@ a:hover {
 	background: transparent;
 }
 .navbar-inverse .navbar-toggle {
-	background-color: #0F60A0;
+	background-color: #d8d23d;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
 /*background-color: #0F60A0;*/
@@ -467,7 +467,7 @@ a.arrow-link:hover {
 	margin: 0 auto !important;
 }
 .heading h2 {
-	color: #fff;
+	color: #222;
 	font-size: 36px;
 	text-transform: uppercase;
 	font-weight: 900;
@@ -537,7 +537,7 @@ img, video, iframe, embed, object {
 	color: #222;
 }
 #aboutUs {
-	background: #222;
+	background: #fff;
 	padding-top: 35px;
 	padding-bottom: 5px;
 	overflow: hidden;
@@ -715,7 +715,7 @@ img, video, iframe, embed, object {
 }
 #contactUs .btn {
 	border-radius: 0px !important;
-	background: #0F60A0;
+	background: #d8d23d;
 }
 .descrition {
 	min-height: 90px;
