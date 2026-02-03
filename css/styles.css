@@ -245,7 +245,7 @@ a:hover {
 /*background-color: #0F60A0;*/
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-	background: #0F60A0;
+	background: #d8d23d;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
 	color: #fff;
@@ -355,7 +355,7 @@ a:hover {
 .page-section {
 	width: 100%;
 	height: auto;
-	padding: 35px 0;
+	padding: 0px 0;
 }
 .noPadd {
 	padding: 0;
@@ -538,8 +538,8 @@ img, video, iframe, embed, object {
 }
 #aboutUs {
 	background: #fff;
-	padding-top: 35px;
-	padding-bottom: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 	overflow: hidden;
 }
 #aboutUs .feature {
